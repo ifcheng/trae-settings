@@ -1,3 +1,3 @@
 # trae-settings
 
-保存 Trae IDE 用户设置
+保存 Trae 用户设置
