@@ -1,0 +1,160 @@
+{
+  "workbench.editor.enablePreview": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "files.eol": "\n",
+  "files.autoSave": "off",
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "editor.fontSize": 14,
+  "editor.detectIndentation": false,
+  "editor.multiCursorModifier": "alt",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+  "editor.guides.bracketPairs": "active",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "search.followSymlinks": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "wxml": "html",
+  },
+  "git.confirmSync": false,
+  "gitlens.statusBar.enabled": false,
+  "editor.semanticTokenColorCustomizations": {
+    "[One Monokai Python]": {
+      "rules": {
+        "variable.readonly": "#61AFEF",
+        "variable.local": "#61AFEF",
+        "function.local": "#98c379",
+        "function.readonly": "#98c379",
+      },
+    },
+  },
+  "editor.tokenColorCustomizations": {
+    "[One Monokai Python]": {
+      "textMateRules": [
+        {
+          "scope": "constant.character.escape,constant.language",
+          "settings": {
+            "foreground": "#ee6047",
+          },
+        },
+        {
+          "scope": "string.regexp",
+          "settings": {
+            "foreground": "#d1b828",
+          },
+        },
+        {
+          "scope": "variable.language,support.type",
+          "settings": {
+            "foreground": "#56b6c2",
+          },
+        },
+        {
+          "scope": "variable.language.super",
+          "settings": {
+            "foreground": "#AB63F2",
+            "fontStyle": "italic",
+          },
+        },
+        {
+          "scope": "variable.object.property,variable.other.property,meta.object.member,meta.jsx.children.tsx",
+          "settings": {
+            "foreground": "#abb2bf",
+          },
+        },
+        {
+          "scope": "entity.name.type,support.class,entity.other.inherited-class",
+          "settings": {
+            "foreground": "#dd4c78",
+          },
+        },
+        {
+          "scope": "support.type.property-name.json,meta.function.call,entity.name.function",
+          "settings": {
+            "foreground": "#98c379",
+          },
+        },
+      ],
+    },
+  },
+  "material-icon-theme.files.associations": {
+    "package.json": "npm",
+    "package-lock.json": "npm",
+    ".env.trial": "tune",
+  },
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.arrowParens": "avoid",
+  "svg.preview.mode": "svg",
+  "yaml.schemas": {
+    "file:///Users/fcheng/.vscode/extensions/atlassian.atlascode-2.10.9/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml",
+  },
+  "redhat.telemetry.enabled": false,
+  "cssrem.rootFontSize": 75,
+  "cssrem.currentLine": "disabled",
+  "files.associations": {
+    "*.cjson": "jsonc",
+    "*.wxss": "css",
+    "*.wxs": "javascript",
+  },
+  "minapp-vscode.disableAutoConfig": true,
+  "auto-close-tag.insertSpaceBeforeSelfClosingTag": true,
+  "auto-close-tag.SublimeText3Mode": true,
+  "[typescript]": {},
+  "editor.minimap.renderCharacters": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "search.exclude": {
+    "**/node_modules": false,
+    "**/bower_components": true,
+    "**/*.code-search": true,
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/tmp": true,
+    "**/bower_components": true,
+  },
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/**": true,
+    "**/tmp/**": true,
+    "**/bower_components/**": true,
+    "**/dist/**": true,
+  },
+  "gitlens.views.scm.grouped.views": {
+    "commits": false,
+    "branches": false,
+    "remotes": false,
+    "stashes": false,
+    "tags": false,
+    "worktrees": true,
+    "contributors": true,
+    "repositories": false,
+    "searchAndCompare": false,
+    "launchpad": false,
+  },
+  "explorer.confirmDelete": false,
+  "[svg]": {
+    "editor.defaultFormatter": "jock.svg",
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.editorAssociations": {
+    "*.svg": "default",
+  },
+  "workbench.colorTheme": "One Monokai Python",
+  "vue.format.style.enabled": false,
+  "vue.format.script.enabled": false,
+  "vue.format.template.enabled": false,
+  "git.enableSmartCommit": true,
+}
