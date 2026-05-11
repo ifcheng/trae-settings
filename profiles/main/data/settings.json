@@ -152,9 +152,9 @@
   "workbench.editorAssociations": {
     "*.svg": "default",
   },
-  "workbench.colorTheme": "One Monokai Python",
   "vue.format.style.enabled": false,
   "vue.format.script.enabled": false,
   "vue.format.template.enabled": false,
   "git.enableSmartCommit": true,
+  "workbench.colorTheme": "One Monokai Python",
 }

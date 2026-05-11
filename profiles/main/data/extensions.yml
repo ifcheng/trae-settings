@@ -3,6 +3,8 @@ disabled:
     uuid: 1b747f06-3789-4ebd-ac99-f1fe430c3347
   - id: bradlc.vscode-tailwindcss
     uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
+  - id: cipchk.cssrem
+    uuid: a0e969a7-a8a4-4958-8b82-ad690ebfa5c0
   - id: mkxml.vscode-filesize
     uuid: 21b3e09e-b3f7-4e20-9302-50039286650d
   - id: ms-azuretools.vscode-containers
@@ -13,8 +15,8 @@ disabled:
     uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-python.python
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
-  - id: ms-python.vscode-pylance
-    uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
+  - id: ms-python.vscode-python-envs
+    uuid: b41d8e8a-b6d4-4202-8f07-7189bdda81be
   - id: ms-toolsai.jupyter
     uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
   - id: ms-toolsai.jupyter-keymap
@@ -26,8 +28,6 @@ disabled:
   - id: ms-toolsai.vscode-jupyter-slideshow
     uuid: e153ca70-b543-4865-b4c5-b31d34185948
 enabled:
-  - id: cipchk.cssrem
-    uuid: a0e969a7-a8a4-4958-8b82-ad690ebfa5c0
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: eamodio.gitlens
@@ -40,8 +40,6 @@ enabled:
     uuid: 6e440e71-8ed9-4f25-bb78-4b13096b8a03
   - id: jock.svg
     uuid: 4ae6dc82-7981-4f10-bd81-2d72aec37f39
-  - id: MariusAlchimavicius.json-to-ts
-    uuid: 2e4a6a59-8d62-4ea6-99ba-09ca1fb20dca
   - id: NoThlnG.one-monokai-python
     uuid: 231f0e87-0e10-466a-b262-a007f7817190
   - id: PKief.material-icon-theme
